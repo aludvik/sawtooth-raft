@@ -4,5 +4,6 @@ version = "0.1.0"
 authors = ["Intel Corporation"]
 
 [dependencies]
-raft = "0.2.0"
+protobuf = "2"
+raft = "0.3.0"
 sawtooth_sdk = { path = "../sawtooth-core/sdk/rust" }
